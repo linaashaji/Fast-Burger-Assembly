@@ -8,7 +8,7 @@ Imagine that you are the master chef at a restaurant of fast-food. You accept or
 
 Assembling:
 To run this game, you only need first to install the ide68k simulator on your laptop
-Link: http://home.kpn.nl/pj.fondse/ide68k/software/ide68k30.zip
+ http://home.kpn.nl/pj.fondse/ide68k/software/ide68k30.zip
 
 Files:
 •	mygame.asm  contains the code of the game, including routines of creating characters, the Random function generator … 
